@@ -275,7 +275,3 @@ function updateEmployeeRole() {
         });
     });
 }
-
-
-// Start the application
-mainMenu();
